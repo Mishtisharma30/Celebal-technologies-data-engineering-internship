@@ -67,3 +67,41 @@ Performed business analysis using aggregated SQL queries.
 - **Consistency:** valid database state maintained
 - **Isolation:** concurrent transactions remain independent
 - **Durability:** committed data persists
+
+
+# Week 3 Assignment: SQL Analysis Using Subqueries, CTEs, and Window Functions
+
+## Objective
+
+Analyze the Superstore dataset using SQL and apply Subqueries, CTEs, and Window Functions to solve business problems.
+
+## Tasks Performed
+
+* Imported the Superstore dataset into MySQL.
+* Created `customers`, `products`, and `orders` tables.
+* Inserted data from `superstore_raw`.
+* Used Subqueries for filtering and analysis.
+* Applied CTEs for sales aggregation.
+* Used Window Functions (`RANK()`, `ROW_NUMBER()`).
+* Performed customer sales analysis and ranking.
+* Completed the Customer Sales Insights mini project.
+
+## Files Included
+
+* `WEEK_3_SQL_FILE.sql`
+* `Sample - Superstore.csv`
+* `Outputs_Of_SQL_Queries/`
+
+## What I Learned
+
+* Importing and managing datasets in MySQL.
+* Creating and populating normalized tables.
+* Using Subqueries to analyze data.
+* Working with CTEs for cleaner queries.
+* Applying Window Functions for ranking and ordering.
+* Solving real-world business questions using SQL.
+
+## Conclusion
+
+This assignment helped me strengthen my understanding of advanced SQL concepts and their practical application in data analysis.
+
