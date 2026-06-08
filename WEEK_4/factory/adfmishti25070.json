@@ -1,0 +1,15 @@
+{
+	"name": "adfmishti25070",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9642293-02ae-4243-be29-00d31c0d0818",
+		"tenantId": "1e2fd582-1d80-4063-9db1-568f7921e2b1"
+	}
+}
