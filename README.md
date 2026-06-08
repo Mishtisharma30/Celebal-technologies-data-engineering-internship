@@ -105,3 +105,39 @@ Analyze the Superstore dataset using SQL and apply Subqueries, CTEs, and Window 
 
 This assignment helped me strengthen my understanding of advanced SQL concepts and their practical application in data analysis.
 
+
+
+# Week 4 - Azure Data Pipeline using ADF
+
+## Objective
+
+Build an end-to-end data pipeline using Azure Storage Account and Azure Data Factory (ADF).
+
+## Work Completed
+
+* Created a Resource Group in Azure.
+* Created a Storage Account and Blob Container.
+* Uploaded the Superstore CSV dataset.
+* Created Azure Data Factory.
+* Configured Linked Service and Datasets.
+* Implemented Get Metadata activity.
+* Built a pipeline using Copy Data activity.
+* Executed and monitored the pipeline successfully.
+* Assigned IAM roles (Reader and Contributor).
+
+## Pipeline Flow
+
+Blob Storage → Azure Data Factory → Destination Storage
+
+## Technologies Used
+
+* Azure Resource Group
+* Azure Storage Account
+* Azure Blob Storage
+* Azure Data Factory (ADF)
+
+## Outcome
+
+Successfully created and executed a data pipeline that validates metadata and copies data from source to destination using Azure Data Factory.
+
+
