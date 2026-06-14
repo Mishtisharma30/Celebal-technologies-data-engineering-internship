@@ -141,3 +141,23 @@ Blob Storage → Azure Data Factory → Destination Storage
 Successfully created and executed a data pipeline that validates metadata and copies data from source to destination using Azure Data Factory.
 
 
+# Week 5 - Spark Data Processing
+
+## Objective
+Learn Spark DataFrames and perform data cleaning, filtering, transformations, and aggregations.
+
+## Tasks Performed
+- Removed duplicate records
+- Handled null values
+- Applied filtering conditions
+- Performed aggregations using count, sum, avg, min, and max
+- Used groupBy operations
+- Modified schema using casting and renaming
+- Cleaned inconsistent data
+- Built a complete data processing pipeline
+
+## Technologies Used
+- PySpark
+- Apache Spark
+- Python
+- Jupyter Notebook
