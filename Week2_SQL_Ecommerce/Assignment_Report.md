@@ -40,7 +40,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ## Files Included
 
 ```text
-week2.sql
+shopease_db_week_2.sql
 README.md
 ```
 
