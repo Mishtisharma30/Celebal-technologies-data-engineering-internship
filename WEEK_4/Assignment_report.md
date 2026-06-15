@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * Assigned IAM roles and configured access permissions.
 * Validated successful data movement from source to destination.
 
-## Azure Concepts Practiced
+## Azure Concepts:
 
 * Resource Groups
 * Storage Accounts
@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * Copy Data Activity
 * IAM Roles
 
-## Skills Learned
+## Skills:
 
 * Azure Cloud Fundamentals
 * Data Pipeline Development
