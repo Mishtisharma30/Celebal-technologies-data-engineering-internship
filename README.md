@@ -161,3 +161,20 @@ Learn Spark DataFrames and perform data cleaning, filtering, transformations, an
 - Apache Spark
 - Python
 - Jupyter Notebook
+  
+
+# Week 6 - Spark Architecture and Data Processing
+
+## Objective
+
+Understand Spark architecture and perform data processing using PySpark DataFrames.
+
+## Work Completed
+
+- Studied Driver, Cluster Manager, and Executor roles in Spark.
+- Learned Lazy Evaluation and DAG execution.
+- Performed DataFrame operations such as filtering, selection, renaming, and type casting.
+- Handled null values and created derived columns.
+- Explored wide transformations, shuffle operations, and Predicate Pushdown.
+- Compared CSV and Parquet file formats.
+- Built simple data processing workflows using Spark DataFrames.
