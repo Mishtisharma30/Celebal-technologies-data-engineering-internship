@@ -178,3 +178,28 @@ Understand Spark architecture and perform data processing using PySpark DataFram
 - Explored wide transformations, shuffle operations, and Predicate Pushdown.
 - Compared CSV and Parquet file formats.
 - Built simple data processing workflows using Spark DataFrames.
+
+
+# Week 7 - Data Cleaning using PySpark and Delta Lake
+
+## Objective
+
+Perform data exploration, cleaning, transformation, and data storage using PySpark in Databricks.
+
+## Work Completed
+
+- Loaded the Sample Superstore dataset into a PySpark DataFrame.
+- Explored the dataset by checking the first and last 5 rows, schema, row count, column names, and data types.
+- Identified and handled missing values.
+- Removed duplicate records.
+- Filtered data and selected relevant columns.
+- Created derived columns (`Unit Price` and `total_amount`).
+- Saved the cleaned dataset as a CSV file.
+- Stored the cleaned dataset in Delta format.
+
+## Technologies Used
+
+- Python
+- PySpark
+- Databricks
+- Delta Lake
