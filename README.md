@@ -203,3 +203,100 @@ Perform data exploration, cleaning, transformation, and data storage using PySpa
 - PySpark
 - Databricks
 - Delta Lake
+
+
+
+
+# WEEK 8 : E-Commerce Order Analytics System
+
+---
+
+## Overview
+
+This project presents an end-to-end E-Commerce Order Analytics System developed using Python, Pandas, SQL, and MySQL. The project demonstrates the complete workflow of generating synthetic datasets, cleaning and validating data, performing SQL-based business analysis, and generating reports through a Python command-line application.
+
+---
+
+## Objective
+
+The assignment aims to build a complete analytics pipeline for processing and analyzing e-commerce order data.
+
+The project includes:
+
+- Generate synthetic datasets
+- Clean and validate data
+- Load data into MySQL
+- Perform SQL analysis
+- Generate business reports
+- Handle common edge cases
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Faker
+- MySQL
+- SQL
+- SQLAlchemy
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## Workflow
+
+```text
+Synthetic Data Generation
+            ↓
+Data Cleaning
+            ↓
+Data Validation
+            ↓
+MySQL Database
+            ↓
+SQL Analysis
+            ↓
+Python Reporting
+```
+
+---
+
+## Key Features
+
+- Generated realistic synthetic datasets
+- Performed data cleaning and validation
+- Maintained data integrity across multiple tables
+- Loaded cleaned data into MySQL
+- Performed SQL analysis using joins, aggregations, CTEs, window functions, and cohort analysis
+- Developed a Python command-line reporting tool
+- Implemented validations for common edge cases
+
+---
+
+## How to Run the Project
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Execute the project
+
+```bash
+python scripts/data_generation.py
+python scripts/data_cleaning.py
+python scripts/data_validation.py
+python database/load_data.py
+python scripts/reporting.py
+```
+
+---
+
+## Assignment Report
+
+Detailed project documentation, implementation steps, SQL queries, validation process, and screenshots are available in **Assignment_Report.md**.
+
+---
