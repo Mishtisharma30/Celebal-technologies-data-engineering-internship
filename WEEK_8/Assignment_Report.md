@@ -314,28 +314,6 @@ Business analysis was divided into three separate SQL files.
 
 ---
 
-# Business Insights Generated
-
-The SQL analysis was used to generate several business insights.
-
-Reports include:
-
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Top Revenue Generating Categories
-- Top Customers
-- Best Selling Products
-- Monthly Revenue Trend
-- Revenue by City
-- Customer Segmentation
-- Customer Retention Metrics
-- Repeat Customers
-- Customer Lifetime Value
-- Order Distribution by Status
-
----
-
 # Python Reporting Tool
 
 A command-line reporting application was developed using Python.
