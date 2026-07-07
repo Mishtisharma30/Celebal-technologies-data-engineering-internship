@@ -1,0 +1,17 @@
+{
+	"name": "DS_Landing_Folder",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_Ecommerce",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "landing"
+			}
+		}
+	}
+}
