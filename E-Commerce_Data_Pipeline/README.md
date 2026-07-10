@@ -1,4 +1,4 @@
-# E-Commerce Data Engineering Pipeline
+# E-Commerce Data Pipeline
 
 ## Objective
 
