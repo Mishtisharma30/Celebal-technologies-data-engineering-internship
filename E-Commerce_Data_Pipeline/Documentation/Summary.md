@@ -79,6 +79,10 @@ The Databricks notebook is scheduled to run every 6 hours and processes the late
 - `datasets/` - Input CSV datasets
 - `screenshots/` - Project execution screenshots
 
-## Project Status
+# Few Environment-Specific Changes I Made:
 
-The ADF ingestion pipeline, Databricks transformations, Delta tables, data-quality checks, Gold KPIs, reconciliation, and scheduled notebook execution have been successfully implemented and tested.
+ ## Unity Catalog instead of Hive Metastore:
+ - Legacy Hive Metastore access was disabled in my Databricks environment. Therefore, I used Unity Catalog for managing catalogs, schemas, and tables while maintaining the same Medallion Architecture and data processing workflow.
+
+## Modified Data Loading Approach::
+ - During data ingestion, the documented loading approach encountered authentication and access token limitations in my Azure environment. Therefore, I modified the data loading configuration to successfully ingest the source data into ADLS Gen2 while maintaining the intended data flow of the project.
