@@ -1,4 +1,4 @@
-# Week 7 - Data Cleaning using PySpark and Delta Lake
+# Week 7 - Data Cleaning using PySpark and Delta Lake: The assignment displayed on the portal was the same as the Week 1 assignment. I raised a query regarding this but did not receive any corrected assignment or further clarification. Therefore, I proceeded based on my understanding and completed the assignment to the best of my ability.
 
 ## Objective
 
